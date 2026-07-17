@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning Software Quality Testing...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me through: mahmudulmafi@gmail.com
+
+- 📫 How to reach me: mahmudulmafi@gmail.com
 - 😄 Pronouns: Mafi
-- ⚡ Fun fact: 
---> About Me
+- ⚡ Fun fact: I love to watch Movies and Series
+--> About Me 
 I am currently pursuing a bachelor’s degree in Computer Science and Engineering at American International University-Bangladesh (AIUB). Through my studies, I am strengthening my theoretical knowledge and practical abilities in software quality testing. My main areas of interest include Software Quality Assurance, software testing, defect detection, and verifying that software systems meet expected functional and quality requirements.
 
 I also have experience in website development and enjoy using creative and analytical thinking to design software architectures and system solutions. Additionally, I am interested in conducting research in Machine Learning, Natural Language Processing, and Computer Vision. My long-term goal is to expand my technical expertise, improve my problem-solving skills, and establish a successful career as a Software Quality Assurance Engineer and technology professional.
